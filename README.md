@@ -59,5 +59,10 @@ Bitcoin data up to the start of 2016
 ```
 historical_crypto_to_csv.py bitcoin --end 2016-01-01
 ```
-
-## License
+Importing the csv into a pandas dataframe (requires pandas module)
+```
+import pandas as pd
+df = pd.read_csv('2013-04-28_2018-01-01_bitcoin.csv',
+                 parse_dates=True,
+                 index_col=0)
+```
