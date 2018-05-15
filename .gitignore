@@ -1,0 +1,5 @@
+# Test file
+test.py
+
+# Exclude generated csv files
+*.csv
