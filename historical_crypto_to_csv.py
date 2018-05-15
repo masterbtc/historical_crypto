@@ -5,6 +5,7 @@ historical_crypto_to_csv.py
 ~~~~~~~~~~~~
 :copyright: (c) 2018 by jyutzio
 :license: MIT, see LICENSE for more details.
+:repository: https://github.com/jyutzio/historical_crypto
 """
 
 import argparse

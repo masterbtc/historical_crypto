@@ -18,7 +18,7 @@ https://coinmarketcap.com/currencies/bitcoin/
 
 All available historical data for Bitcoin
 ```
-git clone https://github.com/historical_crypto/repo.git
+git clone https://github.com/jyutzio/historical_crypto.git
 cd historical_crypto
 historical_crypto_to_csv.py bitcoin
 ```
